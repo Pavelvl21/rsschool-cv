@@ -28,3 +28,21 @@ April 2022 - Present
 * Study project: [**"Chat"**](https://github.com/Pavelvl21/frontend-project-12) - real-time SPA with React.js (in progress);  
 [https://github.com/Pavelvl21/frontend-project-12](https://github.com/Pavelvl21/frontend-project-12)  
 
+## Hard Skills
+* JS ES6 (Intermediate)
+* HTML 5 (Intermediate)
+* CSS 3 (Intermediate)
+* React.js (Intermediate)
+* Node.js (Novice)
+* Figma (Novice)
+* Photoshop (Novice)
+* PostgreSQL (Novice)
+
+## Soft Skills
+* Time management
+* Adaptable
+* Flexible
+* Problem-solving
+* Analytical
+* Innovative
+* Creative
