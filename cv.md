@@ -46,3 +46,34 @@ April 2022 - Present
 * Analytical
 * Innovative
 * Creative
+
+## Codewars Solutions
+#### 5 kyu: Pete, the baker
+```
+const cakes = (recipe, available) => {
+  const checkCount = (ingr) => {
+    if (available[ingr] && recipe[ingr]) {
+      return Math.floor(available[ingr] / recipe[ingr]);
+    }
+    return 0;
+  };
+  
+  const cakeCount =  Object
+    .keys(recipe)
+    .map((ing) => checkCount(ing))
+    .filter((num) => num >= 0);
+  
+  return Math.min(...cakeCount);
+};
+```
+#### 6 kyu: Sum of Digits / Digital Root
+```
+const digitalRoot = (n) => {
+  const arr = n.toString().split('').map((num) => Number(num));
+  const result = arr.reduce((num, acc) => acc + num, 0);
+  if (result.toString().length === 1) {
+    return result;
+  }
+  return digitalRoot(result);
+};
+```
