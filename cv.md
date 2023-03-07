@@ -84,3 +84,8 @@ const digitalRoot = (n) => {
 **MANAGYM**: Management skills course
 * 2013 - 2016  
 **International University MITSO**: Bachelor's degree, Management
+
+## Languages
+* English: **A1**
+* Belarusian: **Native**
+* Russian: **Native**
