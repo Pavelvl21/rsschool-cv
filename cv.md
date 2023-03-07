@@ -17,7 +17,7 @@
 Hello! I'm Pavel. I work in the field of e-commerce as a Lead Procurement Manager. In my spare time I study javascript development. There are 4 projects in my portfolio. Plans for the near future to write a pet-project "Online-store". I'm always looking for a new knowledge. I like to work in a team and for the result.
 
 ## Experience
-Arril 2022 - Present
+April 2022 - Present
 ### Training in the online school of programming "Hexlet"
 * Study project: [**"Brain Games"**](https://github.com/Pavelvl21/frontend-project-lvl1) - is a set of five console games;  
 [https://github.com/Pavelvl21/frontend-project-lvl1](https://github.com/Pavelvl21/frontend-project-lvl1)
