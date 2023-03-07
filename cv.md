@@ -48,7 +48,7 @@ Hello! I'm Pavel. I work in the field of e-commerce as a Lead Procurement Manage
 * Creative
 
 ## Codewars Solutions
-#### 5 kyu: Pete, the baker
+* #### 5 kyu: Pete, the baker
 ```
 const cakes = (recipe, available) => {
   const checkCount = (ingr) => {
@@ -66,7 +66,7 @@ const cakes = (recipe, available) => {
   return Math.min(...cakeCount);
 };
 ```
-#### 6 kyu: Sum of Digits / Digital Root
+* #### 6 kyu: Sum of Digits / Digital Root
 ```
 const digitalRoot = (n) => {
   const arr = n.toString().split('').map((num) => Number(num));
