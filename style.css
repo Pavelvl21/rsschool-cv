@@ -1,0 +1,21 @@
+body {
+  display: grid;
+  grid-template-columns: 32% 1fr;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas:
+    "aside main"
+    "footer footer";
+  max-width: 1200px;
+}
+
+.sidebar {
+  grid-area: aside;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 2rem);
+  border-right: 1px solid black;
+}
+
+footer {
+  grid-area: footer;
+}
